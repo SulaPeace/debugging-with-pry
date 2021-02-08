@@ -1,4 +1,5 @@
 require 'pry'
+binding.pry
 require './lib/pry_debugging.rb'
 
 describe "#plus_two" do 
